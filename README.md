@@ -34,7 +34,7 @@ This tool is built with Python and Tkinter, providing a simple and cross-platfor
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Hercules03/Image-object-coordinate-finder.git
    cd Image-object-coordinate-finder
    ```
 
